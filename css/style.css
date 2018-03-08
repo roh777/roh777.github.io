@@ -1,0 +1,19 @@
+body {
+  font-family: "Karma";
+  font-size: 20px;
+  background: #edf1f7;
+}
+
+header {
+  text-align: center;
+  margin: 20px 0 30px 0;
+}
+header p {
+  font-size: 16px;
+}
+header h1 {
+  font-weight: 800;
+}
+header hr {
+  color: black;
+}
